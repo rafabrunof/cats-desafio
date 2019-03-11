@@ -1,0 +1,84 @@
+.bloco {    
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+/* BOTÕES */
+.botao {
+    color: #F08B00;
+}
+
+/* LOGO */
+.logo-img {
+    width: 90px;
+    padding-top: 8px;
+}
+
+/* MENU */
+.navbar {
+    background-color: black;
+}
+
+.nav-wrapper{
+    border-bottom: 1px solid white;
+}
+
+nav ul a:hover {
+    background-color: white;
+    color: black;
+}
+
+/* TEACH IMAGE */
+.gato {
+    background-image: url(../Imagens/animais-de-estimacao-animais-domesticos-animais-fofinhos-1084425.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+/* IMAGENS ALL YOU NEED IS CAT */
+.borda1 {
+    border: 7px solid black;
+}
+
+.borda2 {
+    border: 7px solid #F08B00;
+}
+
+
+/* FOOTER */
+.page-footer {
+    background-color: black;
+}
+
+.footer-copyright {
+    background-color: grey;
+}
+
+/* FORMATAÇÃO DE TEXTO */
+h2 {
+    position: absolute;
+    width: 500px;
+    top: 130px;
+    left: 200px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h4 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-transform: uppercase;
+}
+
+h5 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 30px 0 30px 0;
+}
+
+span {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-transform: uppercase;
+}
