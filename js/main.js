@@ -1,9 +1,9 @@
 $(document).ready(function() {
 
-    /* INPUT FORMULARIO*/
+    /* INPUT FORMULARIO */
     $('#input').characterCounter();
 
-    /* SCROLLSPY*/
+    /* SCROLLSPY */
     $('.scrollspy').scrollSpy();
 
     /* BUTTON FLOATING */
